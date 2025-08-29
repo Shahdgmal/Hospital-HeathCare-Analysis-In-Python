@@ -6,6 +6,9 @@
 ## PYTHON_CODE
 - <a href="https://github.com/Shahdgmal/Hospital-HeathCare-Analysis-In-Python/blob/main/HealthCare_Analysis.ipynb%20-%20Colab.pdf">CODE</a>
 
+## Code In Colab
+- <a href="https://colab.research.google.com/drive/1iaHR1LCy8t5gVxw15Z16WgBkfe1-8hm5?usp=sharing">Colab</a>
+
 ### Patient Demographics
 
 - Count of patients admitted by gender.
