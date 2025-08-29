@@ -3,6 +3,9 @@
 ## DataSet Used
 - <a href="https://github.com/Shahdgmal/Hospital-HeathCare-Analysis-In-Python/blob/main/healthcare_dataset.xlsx">DataSet</a>
 
+## PYTHON_CODE
+- <a href="https://github.com/Shahdgmal/Hospital-HeathCare-Analysis-In-Python/blob/main/HealthCare_Analysis.ipynb%20-%20Colab.pdf">CODE</a>
+
 ### Patient Demographics
 
 - Count of patients admitted by gender.
@@ -31,6 +34,3 @@
 ### Readmission Rates
 
 - Overall hospital readmission rate.
-
-## PYTHON_CODE
-- <a href="https://github.com/Shahdgmal/Hospital-HeathCare-Analysis-In-Python/blob/main/HealthCare_Analysis.ipynb%20-%20Colab.pdf">CODE</a>
